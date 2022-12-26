@@ -1,0 +1,11 @@
+C:\Users\aleks\Desktop\Fourier-Image-Transform-master\Fourier Transformatie\bin\Debug\Fourier Transformatie.exe.config
+C:\Users\aleks\Desktop\Fourier-Image-Transform-master\Fourier Transformatie\bin\Debug\Fourier Transformatie.exe
+C:\Users\aleks\Desktop\Fourier-Image-Transform-master\Fourier Transformatie\bin\Debug\Fourier Transformatie.pdb
+C:\Users\aleks\Desktop\Fourier-Image-Transform-master\Fourier Transformatie\obj\Debug\Fourier Transformatie.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Fourier-Image-Transform-master\Fourier Transformatie\obj\Debug\Fourier Transformatie.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\Desktop\Fourier-Image-Transform-master\Fourier Transformatie\obj\Debug\Fourier_Transformatie.Form1.resources
+C:\Users\aleks\Desktop\Fourier-Image-Transform-master\Fourier Transformatie\obj\Debug\Fourier_Transformatie.Properties.Resources.resources
+C:\Users\aleks\Desktop\Fourier-Image-Transform-master\Fourier Transformatie\obj\Debug\Fourier Transformatie.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\Fourier-Image-Transform-master\Fourier Transformatie\obj\Debug\Fourier Transformatie.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Fourier-Image-Transform-master\Fourier Transformatie\obj\Debug\Fourier Transformatie.exe
+C:\Users\aleks\Desktop\Fourier-Image-Transform-master\Fourier Transformatie\obj\Debug\Fourier Transformatie.pdb

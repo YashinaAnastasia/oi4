@@ -1,0 +1,11 @@
+C:\Users\annag\Downloads\Fourier_Transformatie-main (1)\Fourier_Transformatie-main\Fourier-Image-Transform-master\Fourier-Transformatie\bin\Debug\Fourier Transformatie.exe.config
+C:\Users\annag\Downloads\Fourier_Transformatie-main (1)\Fourier_Transformatie-main\Fourier-Image-Transform-master\Fourier-Transformatie\bin\Debug\Fourier Transformatie.exe
+C:\Users\annag\Downloads\Fourier_Transformatie-main (1)\Fourier_Transformatie-main\Fourier-Image-Transform-master\Fourier-Transformatie\bin\Debug\Fourier Transformatie.pdb
+C:\Users\annag\Downloads\Fourier_Transformatie-main (1)\Fourier_Transformatie-main\Fourier-Image-Transform-master\Fourier-Transformatie\obj\Debug\Fourier-Transformatie.csproj.AssemblyReference.cache
+C:\Users\annag\Downloads\Fourier_Transformatie-main (1)\Fourier_Transformatie-main\Fourier-Image-Transform-master\Fourier-Transformatie\obj\Debug\Fourier-Transformatie.csproj.SuggestedBindingRedirects.cache
+C:\Users\annag\Downloads\Fourier_Transformatie-main (1)\Fourier_Transformatie-main\Fourier-Image-Transform-master\Fourier-Transformatie\obj\Debug\Fourier_Transformatie.Form1.resources
+C:\Users\annag\Downloads\Fourier_Transformatie-main (1)\Fourier_Transformatie-main\Fourier-Image-Transform-master\Fourier-Transformatie\obj\Debug\Fourier_Transformatie.Properties.Resources.resources
+C:\Users\annag\Downloads\Fourier_Transformatie-main (1)\Fourier_Transformatie-main\Fourier-Image-Transform-master\Fourier-Transformatie\obj\Debug\Fourier-Transformatie.csproj.GenerateResource.cache
+C:\Users\annag\Downloads\Fourier_Transformatie-main (1)\Fourier_Transformatie-main\Fourier-Image-Transform-master\Fourier-Transformatie\obj\Debug\Fourier-Transformatie.csproj.CoreCompileInputs.cache
+C:\Users\annag\Downloads\Fourier_Transformatie-main (1)\Fourier_Transformatie-main\Fourier-Image-Transform-master\Fourier-Transformatie\obj\Debug\Fourier Transformatie.exe
+C:\Users\annag\Downloads\Fourier_Transformatie-main (1)\Fourier_Transformatie-main\Fourier-Image-Transform-master\Fourier-Transformatie\obj\Debug\Fourier Transformatie.pdb
